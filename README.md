@@ -12,8 +12,9 @@
   3. Express-Handlebars 3.0.0
 
 # 專案安裝流程
-  1. 
-  2. 開啟終端機，進入存放此檔案之資料夾
+  1. 開啟終端機，Clone 此專案至本機電腦
+  git clone https://github.com/tonia83731/Restaurant_list
+  2. 使用終端機，進入存放此檔案之資料夾
   ```
   cd restaurant_list
   ```
@@ -35,4 +36,4 @@
   npm install express-handlebars@3.0.0
   ```
 # 開發人員
-
+  HuiYu
